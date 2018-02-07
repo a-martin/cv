@@ -1,0 +1,68 @@
+;; RefTeX parse info file
+;; File: /Users/Alexander/Documents/Science/Administration/CV/CV.tex
+;; User: Alexander (Alexander Martin)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/Alexander/Documents/Science/Administration/CV/")
+
+(label-numbers)
+
+(bof "/Users/Alexander/Documents/Science/Administration/CV/CV.tex")
+
+(toc "toc" "    * Education" "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil 2 "*" "\\section*{Education}" 2436)
+
+(toc "toc" "    * Research Experience" "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil 2 "*" "\\section*{Research Experience}" 3356)
+
+(toc "toc" "    * Publications" "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil 2 "*" "\\section*{Publications}" 4540)
+
+(toc "toc" "      * Journal Articles" "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil 3 "*" "\\subsection*{Journal Articles}" 4565)
+
+(toc "toc" "      * Conference Proceedings" "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil 3 "*" "\\subsection*{Conference Proceedings}" 5119)
+
+(toc "toc" "    * Presentations" "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil 2 "*" "\\section*{Presentations}" 5593)
+
+(toc "toc" "      * Oral Presentations" "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil 3 "*" "\\subsection*{Oral Presentations}" 5619)
+
+(toc "toc" "      * Poster Presentations" "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil 3 "*" "\\subsection*{Poster Presentations}" 6241)
+
+(toc "toc" "    * Teaching" "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil 2 "*" "\\section*{Teaching}" 7148)
+
+(toc "toc" "      1 Department for Cognitive Science of the École Normale Supérieure" "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil 3 "1" "\\subsection{Department for Cognitive Science of the École Normale Supérieure}" 7169)
+
+("sec:departm-cogn-science" "s" nil "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil "")
+
+(toc "toc" "      1 Department for Cognitive Science of the École Normale Supérieure" "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil 3 "1" "\\subsection{Department for Cognitive Science of the École Normale Supérieure}" 7169)
+
+(toc "toc" "    * Service Activities" "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil 2 "*" "\\section*{Service Activities}" 7590)
+
+(toc "toc" "    * Grants" "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil 2 "*" "\\section*{Grants}" 7880)
+
+(toc "toc" "    * Non-Academic Professional Experience" "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil 2 "*" "\\section*{Non-Academic Professional Experience}" 8452)
+
+(toc "toc" "      * Language Teaching" "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil 3 "*" "\\subsection*{Language Teaching}" 8501)
+
+(toc "toc" "      * Translation" "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil 3 "*" "\\subsection*{Translation}" 8786)
+
+(toc "toc" "    * Skills" "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil 2 "*" "\\section*{Skills}" 9358)
+
+(toc "toc" "      * Computer Skills" "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil 3 "*" "\\subsection*{Computer Skills}" 9400)
+
+(toc "toc" "      * Scientific Skills" "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil 3 "*" "\\subsection*{Scientific Skills}" 9736)
+
+(toc "toc" "      * Languages" "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil 3 "*" "\\subsection*{Languages}" 10052)
+
+(toc "toc" "    * Personal Development" "/Users/Alexander/Documents/Science/Administration/CV/CV.tex" nil 2 "*" "\\section*{Personal Development}" 10693)
+
+(eof "/Users/Alexander/Documents/Science/Administration/CV/CV.tex")
+))
+
